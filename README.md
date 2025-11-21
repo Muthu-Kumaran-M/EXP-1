@@ -45,15 +45,13 @@ KCL: Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algeb
 
 #### a.   KVL:
  
-![WhatsApp Image 2025-09-11 at 05 26 28_0781de7c](https://github.com/user-attachments/assets/c26c7ac8-712c-4345-83cb-58c55043ae4a)
+<img width="518" height="722" alt="image" src="https://github.com/user-attachments/assets/f9f9204b-322b-495f-8a3f-8b440c1bc8f5" />
 
 
 #### b.  KCL:
 
+<img width="479" height="734" alt="image" src="https://github.com/user-attachments/assets/0c792fbe-3bce-4f90-b39e-3ad046b3eef6" />
 
-![WhatsApp Image 2025-09-11 at 05 15 58_08088b3e](https://github.com/user-attachments/assets/99d1bb6e-6f8f-49ed-bd11-af7613faf4df)
-
- 
 
 ### Calculation:
 
